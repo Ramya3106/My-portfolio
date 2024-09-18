@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/layout.tsx", "app/services/page.tsx", "app/work/page.tsx", "app/page.tsx", "components/Header.tsx", "components/Nav.tsx", "components/PageTransition.tsx", "components/Stairs.tsx", "components/StairTransition..tsx", "components/MobileNav.tsx", "components/ui/input.tsx", "components/ui/button.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/layout.tsx", "app/services/page.tsx", "app/work/page.tsx", "app/page.tsx", "Components/Header.tsx", "Components/Nav.tsx", "Components/PageTransition.tsx", "Components/Stairs.tsx", "Components/StairTransition..tsx", "Components/MobileNav.tsx", "Components/ui/input.tsx", "Components/ui/button.tsx"],
   "exclude": ["node_modules"]
 }
